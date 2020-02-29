@@ -42,3 +42,37 @@
     .carousel-control-prev-icon {
         display: none;
     }
+    
+    .container {
+        margin-bottom: 50px;
+    }
+    
+    .cat1 {
+        margin-bottom: 30px;
+    }
+    
+    .see-all {
+        color: orange;
+    }
+    
+    .card {
+        border: none;
+        box-shadow: 1px 1px 10px gray;
+        padding: 10px 10px;
+    }
+    
+    .card img {}
+    
+    .card-body {
+        text-align: center;
+    }
+    
+    .card-footer {
+        border-top: none;
+        background-color: #fff;
+        text-align: center;
+    }
+    
+    .card-text {
+        font-size: 12px;
+    }
