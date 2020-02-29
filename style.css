@@ -1,11 +1,44 @@
     .navbar-brand img {
-    width: 150px;
-    height: 70px;
-}
-
-.nav-link {
-    padding: 1.5rem 1rem;
-    font-weight: 700;
-    margin-right: 20px;
-    font-size: 15px;
-    display: block;
+        width: 150px;
+        height: 70px;
+    }
+    
+    .nav-link {
+        padding: 1.5rem 1rem;
+        font-weight: 700;
+        margin-right: 20px;
+        font-size: 15px;
+        display: block;
+    }
+    
+    .color-bg {
+        background-color: #fff;
+        border-radius: 10px;
+    }
+    
+    .buy-now-button {
+        text-decoration: none;
+        color: #fff;
+        background-color: #000;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+    
+    .slider-part {
+        padding: 10px 30px;
+    }
+    
+    .slider-part p {
+        margin-bottom: 30px;
+    }
+    
+    .carousel-indicators li {
+        background-color: #086140e3;
+        padding: 2px 4px;
+        border-radius: 1px;
+    }
+    
+    .carousel-control-next-icon,
+    .carousel-control-prev-icon {
+        display: none;
+    }
